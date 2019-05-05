@@ -768,7 +768,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190120-wa0046-1280x960.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -802,7 +802,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1-2000x855.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
